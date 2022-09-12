@@ -1,0 +1,6 @@
+{
+    "Product": true,
+    "Ingredient": true,
+    "Order": true,
+    "Infrastructure": true
+}
